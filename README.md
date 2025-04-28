@@ -13,6 +13,9 @@ Users can:
 ## Features
 ![Login Page](images\login.jpg)
 - *Login System* with username and password verification.
+
+---
+
 ![Second Page](images\grade.jpg)
 - *Dashboard* to manage student data:
   - Add new students.
