@@ -11,12 +11,12 @@ Users can:
 ---
 
 ## Features
-![Login Page](images\login.jpg)
+![Login Page](https://github.com/A7MEDK7/Java_GUI_Student_Grade/blob/main/images/login.jpg)
 - *Login System* with username and password verification.
 
 ---
 
-![Second Page](images\grade.jpg)
+![Second Page](https://github.com/A7MEDK7/Java_GUI_Student_Grade/blob/main/images/grade.jpg)
 - *Dashboard* to manage student data:
   - Add new students.
   - Update existing student records.
@@ -34,11 +34,3 @@ Users can:
 - JTable with DefaultTableModel
 - Printing using Java AWT Print Utilities
 - (Optional) PDF Export using iText Library (future enhancement)
-
----
-
-## Installation & Usage
-
-1. *Clone the repository:*
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
